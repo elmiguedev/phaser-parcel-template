@@ -1,0 +1,17 @@
+{
+  "name": "phaser-parcel-template",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url \".\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
